@@ -1,4 +1,4 @@
-РЕГУЛИРУЕМЫЙ БЛОК ПИТАНИЯ - ЗАРЯДНОЕ ДЛЯ ЭЛЕКТРОВЕЛОСИПЕДА
+﻿РЕГУЛИРУЕМЫЙ БЛОК ПИТАНИЯ - ЗАРЯДНОЕ ДЛЯ ЭЛЕКТРОВЕЛОСИПЕДА
 https://radioskot.ru/publ/zu/reguliruemyj_blok_pitanija_zarjadnoe_dlja_ehlektrovelosipeda/8-1-0-1054
 2016 форум 
 https://radioskot.ru/forum/3-6943-1
@@ -16,5 +16,9 @@ WR-005 10a 100v
 https://innovakon.ru/internet/kak-podklyuchit-k-bloku-pitaniya-cifrovoi-voltmetr-ampermetr-kitaiskii.html
 
 
+калькуляторы
+calculator - EIA-96 SMD resistor
+http://vprl.ru/publ/istochniki_pitanija/tekhnologii/reversivnyj_kalkuljator_kodov_rezistorov_smd/8-1-0-98
 
+http://kiloohm.info/eia96-resistor/76D
 
