@@ -1,4 +1,6 @@
-﻿РЕГУЛИРУЕМЫЙ БЛОК ПИТАНИЯ - ЗАРЯДНОЕ ДЛЯ ЭЛЕКТРОВЕЛОСИПЕДА
+﻿
+
+РЕГУЛИРУЕМЫЙ БЛОК ПИТАНИЯ - ЗАРЯДНОЕ ДЛЯ ЭЛЕКТРОВЕЛОСИПЕДА
 https://radioskot.ru/publ/zu/reguliruemyj_blok_pitanija_zarjadnoe_dlja_ehlektrovelosipeda/8-1-0-1054
 2016 форум 
 https://radioskot.ru/forum/3-6943-1
@@ -23,4 +25,8 @@ calculator - EIA-96 SMD resistor
 http://vprl.ru/publ/istochniki_pitanija/tekhnologii/reversivnyj_kalkuljator_kodov_rezistorov_smd/8-1-0-98
 
 http://kiloohm.info/eia96-resistor/76D
+
+...
+ЛБП из ATX PowerMaster FA-5-F 250W
+https://www.radiokot.ru/forum/viewtopic.php?f=11&t=160991
 
