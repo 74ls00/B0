@@ -4,13 +4,15 @@
 https://radioskot.ru/publ/zu/reguliruemyj_blok_pitanija_zarjadnoe_dlja_ehlektrovelosipeda/8-1-0-1054
 2016 форум 
 https://radioskot.ru/forum/3-6943-1
+Ограничение TL494 по току
+https://96kw.blogspot.com/2016/09/tl494.html
 
 ЛАБОРАТОРНЫЙ БП СВОИМИ РУКАМИ ПО КАРТИНКАМ
 2013. Power Master FA-5
 http://shemu.ru/istocniki/impulsnye/419-lb-svoimi-rukami
 
-
-
+Самодельный импульсный блок питания с регулировкой напряжения и тока.
+https://www.drive2.ru/b/541858022939428076/
 
 
 
@@ -18,6 +20,8 @@ WR-005 10a 100v
 https://innovakon.ru/internet/kak-podklyuchit-k-bloku-pitaniya-cifrovoi-voltmetr-ampermetr-kitaiskii.html
 Ремонт китайского ампервольтметра
 https://radiokot.ru/forum/viewtopic.php?f=10&t=167314&start=20
+Вольтметр/амперметр YB27VA-V1.3 и его версии.
+http://we.easyelectronics.ru/upgrade-repair/voltmetr-ampermetr-yb27va-v13-i-ego-versii.html
 
 
 калькуляторы
